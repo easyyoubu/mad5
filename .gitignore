@@ -1,0 +1,12 @@
+out
+!**/css/dist
+target
+*.svn
+*.classpath
+*.project
+*.springBeans
+*.settings
+*.metadata
+*.idea
+*.iml
+*rebel.xml
